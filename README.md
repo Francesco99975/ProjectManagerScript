@@ -12,7 +12,7 @@ chmod +x prjmgr.sh
 1. Run Script with:
 
 ```bash
-./nodetsup.sh <project-name>
+./prjmgr.sh <project-name>
 ```
 
 ### Script System Integration
