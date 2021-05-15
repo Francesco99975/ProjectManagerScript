@@ -1,4 +1,4 @@
-# PRJMRG - Project Manager for code projects with many directories
+# PRJMGR - Project Manager for code projects with many directories
 
 ## Getting started
 
