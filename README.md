@@ -9,12 +9,6 @@
 chmod +x prjmgr.sh
 ```
 
-1. Run Script with:
-
-```bash
-./prjmgr.sh <project-name>
-```
-
 ### Script System Integration
 
 1. Create plain file version of the script:
@@ -33,4 +27,14 @@ chmod +x prjmgr
 
 ```bash
 sudo mv prjmgr /usr/bin
+```
+
+Uses:
+
+```bash
+prjmgr run <project-directory>
+prjmgr ls
+prjmgr create <project-name> <project-directory> <project-directory>
+prjmgr start <project-name>
+prjmgr delete <project-name>
 ```
